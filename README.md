@@ -1,1 +1,1 @@
-primeiro trabalho do super trunfo.c
+segundo trabalho do super trunfo.c
